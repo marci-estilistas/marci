@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="146.99825mm"
+   height="49.177593mm"
+   viewBox="0 0 146.99825 49.177593"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="marci3.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="204.99573"
+       y="98.355186"
+       width="68.955536"
+       height="21.114292"
+       id="rect865" />
+    <rect
+       x="47.039436"
+       y="82.051743"
+       width="125.34941"
+       height="19.777945"
+       id="rect855" />
+    <rect
+       x="47.039436"
+       y="82.051743"
+       width="125.34941"
+       height="19.777945"
+       id="rect879" />
+    <rect
+       x="47.039436"
+       y="82.051743"
+       width="125.34941"
+       height="19.777945"
+       id="rect879-8" />
+    <rect
+       x="47.039436"
+       y="82.051743"
+       width="125.34941"
+       height="19.777945"
+       id="rect890" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="269.72614"
+     inkscape:cy="5.457844"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="1072"
+     inkscape:window-y="208"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.723289,-96.74618)">
+    <ellipse
+       style="fill:#fe0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.275511"
+       id="path847"
+       cx="96.222412"
+       cy="121.33498"
+       rx="73.499123"
+       ry="24.588797" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.5945px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.499153;stroke-opacity:1"
+       x="27.210136"
+       y="145.85344"
+       id="text851"
+       transform="scale(1.1016061,0.90776552)"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="27.210136"
+         y="145.85344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.5945px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';fill:#ffffff;stroke:#ffffff;stroke-width:0.499153;stroke-opacity:1">marci</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text863"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect865);fill:#000000;fill-opacity:1;stroke:none;" />
+  </g>
+</svg>
